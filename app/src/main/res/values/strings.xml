@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculators</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="txtEmail">victor_hgsilva@hotmail.com</string>
+    <string name="txtNome">Victor Hugo</string>
+    <string name="txtImc">IMC</string>
+    <string name="txtCalculadora">Calculadora</string>
+    <string name="txtMedida">Medida</string>
+    <string name="txtPeso">Peso</string>
+    <string name="txtTemperatura">Temperatura</string>
+    <string name="txtConversores">Conversores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txtAlturaM">Altura (m)</string>
+    <string name="txtPesoKg">Peso (kg)</string>
+    <string name="tvSexo">Sexo:</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFeminino">Feminino</string>
+    <string name="txtCalcular">Calcular</string>
+    <string name="txtSeuImc">Seu IMC é:</string>
+    <string name="txtPesoIdeal">Peso ideal</string>
+</resources>
